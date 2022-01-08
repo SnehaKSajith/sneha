@@ -3,5 +3,6 @@ from .import views
 
 urlpatterns=[
     
-    path('soman',views.Roy )
+    path('',views.Roy ),
+    
 ]
